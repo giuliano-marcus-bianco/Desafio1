@@ -1,0 +1,53 @@
+body {
+    margin: 0%;
+    width: 100%;
+    height: auto;
+    border-top: 10px solid #6c79a8; 
+}
+
+.center {
+    width: 50%;
+    margin: 0 auto;
+    float: center;
+}
+
+.logo {
+    margin-top: 10px;
+    float: left;
+}
+
+.menu ul {
+    padding-top: 10px;
+    list-style: none;
+    padding: 0;
+    text-align: right;
+}
+
+.menu ul li {
+    padding: 15px;
+    display: inline-block;
+    font-size: large;
+    color: #6c79a8;
+}
+
+.capa {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-inline-end: 25%;
+    padding-inline-start: 25%;
+    margin-top: 50px;    
+    background-color: lightgray;
+    align-items: right;
+}
+
+.text {
+    font-size: 13pt ;
+}
+
+.foot {
+    margin-top: 50px;
+    text-align: center;
+    font-weight: bold;
+}
